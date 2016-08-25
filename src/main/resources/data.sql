@@ -1,0 +1,1 @@
+insert into users values (0, '심현섭', 20);
